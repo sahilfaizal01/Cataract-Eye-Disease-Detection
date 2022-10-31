@@ -38,6 +38,6 @@ Validation F1-Score:- 99.21%
 Testing Accuracy:- 93.66%(In the notebook given) 
 
 5-Fold Cross Validation Results
-*) Mean Accuracy = 99.84%
-*) Standard Deviation = 0.3187
-*) Variance = 0.0010159
+* Mean Accuracy = 99.84%
+* Standard Deviation = 0.3187
+* Variance = 0.0010159
