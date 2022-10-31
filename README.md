@@ -12,7 +12,8 @@ of about 95%. Since the model deals with examination of the anterior segment of 
 A mixture of visible wavelength eye images are used, around 2508 images were used for training consisting of 1254 images of both classes. While 568 images were used for validation with 284 images belonging to each category. The entire dataset was split in the ratio of 81.5:18.5. Apart from this "3netra classic" data collected from Korade Eye Hospital, Nashik with due consent of patients is used for testing.
 * The images are collected from online sources as well as from Eye Clinics. Because of privacy concerns the data is not publicised.
 
-## Classes:- Normal Eye, Cataract Eye
+## Classes:- 
+Normal Eye, Cataract Eye
 
 Images were found to have different types of noise and distortions, hence image processing techniques were applied for the precise classification task.
 Some of them are:-
@@ -22,7 +23,8 @@ Some of them are:-
 4) Hough transformation
 5) Adaptive Thresholding
 
-## Image Size:- 224 * 224 * 3 (RGB)
+## Image Size:- 
+224 * 224 * 3 (RGB)
 
 ## Deep Neural Network:- 
 InceptionV3 (Fine Tuning Technique)
